@@ -55,7 +55,7 @@
                 android:layout_width="match_parent"
                 android:id="@+id/editor"
                 app:render_type="Editor"
-                app:placeholder="Start writing here..."
+                app:placeholder="Describe the item"
                 android:paddingTop="10dp"
                 android:paddingLeft="20dp"
                 android:paddingRight="20dp"
